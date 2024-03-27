@@ -1,0 +1,151 @@
+h1
+{
+  color: cornflowerblue;
+}
+
+
+.mariposa-ninos {
+  font-family: 'Mariposa Niños', cursive;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+
+  .butterfly-kids-regular {
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .butterfly-kids-regular {
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .navbar {
+    background-color: rebeccapurple; 
+}
+
+  .container
+  {
+    background-color: rgb(202, 226, 43);
+    width: 500px;
+    height: 200px;
+
+  }
+  .container-fluid
+  {
+    /*background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;*/
+  }
+
+
+  .accordion-item h4 {
+    color:red; 
+}
+
+.accordion-item {
+  background-color: lightgray; 
+}
+
+/* Estilo para el texto del acordeón */
+.accordion-item .accordion-button {
+  color: blueviolet; 
+}
+
+/* Estilo para el texto del cuerpo del acordeón */
+.accordion-item .accordion-collapse {
+  color: crimson;
+}
+
+
+body {
+  background-color: lightblue;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: navy;
+}
+.h2{
+color: blueviolet;
+
+}
